@@ -1,0 +1,12 @@
+1-Paris-Madrid-12:00-15:00-30-300
+2-Hungary-Madrid-12:00-15:00-10-200
+3-Italy-Bucharest-10:00-15:45-10-300
+4-Paris-Bucharest-08:00-10:00-25-250
+5-Lisbon-Cluj-17:40-20:00-15-450
+6-Berlin-Dublin-15:00-18:10-40-400
+7-Hungary-Malta-11:00-12:30-10-200
+8-Luxembourg-Vienna-09:25-10:50-13-80
+9-Luxembourg-Barcelona-13:10-14:30-5-75
+10-Berlin-Greece-17:00-20:30-18-175
+11-Lisbon-Nice-04:15-02:30-15-325
+12-Italy-Stockholm-11:00-14:30-7-95
